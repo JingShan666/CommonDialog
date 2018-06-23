@@ -1,0 +1,108 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!--外边距-->
+    <dimen name="margin_2dp">2dp</dimen>
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+    <dimen name="margin_6dp">6dp</dimen>
+    <dimen name="margin_7dp">7dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_9dp">9dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_50dp">50dp</dimen>
+    <!--内边距-->
+    <dimen name="padding_2dp">2dp</dimen>
+    <dimen name="padding_3dp">3dp</dimen>
+    <dimen name="padding_4dp">4dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="padding_6dp">6dp</dimen>
+    <dimen name="padding_7dp">7dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="padding_12dp">12dp</dimen>
+    <dimen name="padding_13dp">13dp</dimen>
+    <dimen name="padding_14dp">14dp</dimen>
+    <dimen name="padding_15dp">15dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="padding_17dp">17dp</dimen>
+    <dimen name="padding_20dp">20dp</dimen>
+    <dimen name="padding_28dp">28dp</dimen>
+    <dimen name="padding_30dp">30dp</dimen>
+    <!--字体大小-->
+    <dimen name="textSize_7sp">7sp</dimen>
+    <dimen name="textSize_9sp">9sp</dimen>
+    <dimen name="textSize_10sp">10sp</dimen>
+    <dimen name="textSize_11sp">11sp</dimen>
+    <dimen name="textSize_12sp">12sp</dimen>
+    <dimen name="textSize_13sp">13sp</dimen>
+    <dimen name="textSize_14sp">14sp</dimen>
+    <dimen name="textSize_15sp">15sp</dimen>
+    <dimen name="textSize_16sp">16sp</dimen>
+    <dimen name="textSize_17sp">17sp</dimen>
+    <dimen name="textSize_18sp">18sp</dimen>
+    <dimen name="textSize_19sp">19sp</dimen>
+    <dimen name="textSize_20sp">20sp</dimen>
+    <dimen name="textSize_22sp">22sp</dimen>
+    <dimen name="textSize_23sp">23sp</dimen>
+    <dimen name="textSize_27sp">27sp</dimen>
+    <dimen name="textSize_30sp">30sp</dimen>
+    <dimen name="textSize_32sp">32sp</dimen>
+
+    <!--城市-->
+
+    <!--登录界面标准-->
+    <dimen name="et">45dp</dimen>
+
+    <!--设置中心标准比例-->
+    <dimen name="setting_left">10</dimen>
+
+    <!--环形字体尺寸-->
+    <dimen name="round_progress_text_size">15sp</dimen>
+    <!--环形边框宽度-->
+    <dimen name="round_progress_border_width">10dp</dimen>
+
+    <dimen name="set_item_height">50dp</dimen>
+    <dimen name="set_item_paddingLeft">12dp</dimen>
+    <dimen name="set_item_paddingRight">12dp</dimen>
+    <dimen name="set_item_tvSize">15sp</dimen>
+    <dimen name="set_item_right_tvSize">13sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="item_menu_title_margin">5dp</dimen>
+    <dimen name="item_menu_word_size">16sp</dimen>
+    <dimen name="item_menu_top_magin">16dp</dimen>
+    <dimen name="item_dish_word_size">18sp</dimen>
+    <dimen name="item_dish_small_word_size">18sp</dimen>
+    <dimen name="item_dish_money_size">12sp</dimen>
+    <dimen name="item_dish_top_margin">5dp</dimen>
+    <dimen name="item_dish_horizontal_margin">15dp</dimen>
+    <dimen name="item_dish_small_horizontal_margin">2dp</dimen>
+    <dimen name="item_dish_menu_hight">25dp</dimen>
+    <dimen name="item_dish_hight">55dp</dimen>
+    <dimen name="item_dish_account_width">30dp</dimen>
+    <dimen name="item_dish_circle_size">25dp</dimen>
+
+    <dimen name="shopping_cart_height">50dp</dimen>
+    <dimen name="shopping_cart_image_height">35dp</dimen>
+    <dimen name="shopping_cart_circle_size">60dp</dimen>
+    <dimen name="shopping_cart_bottom_margin">5dp</dimen>
+    <dimen name="shopping_cart_right_margin">8dp</dimen>
+    <dimen name="shopping_cart_total_price_left_magrin">90dp</dimen>
+    <dimen name="shopping_cart_total_price_word_size">20sp</dimen>
+    <dimen name="shopping_cart_small_size">15sp</dimen>
+    <dimen name="shopping_cart_bottom_recycle_height">250dp</dimen>
+    <dimen name="mine_set_item_hig">50dp</dimen>
+    <dimen name="text_size_small_m">14sp</dimen>
+    <dimen name="mine_frame_margin">10dp</dimen>
+
+    <!--自定义FloatingActionButton边界的大小，目前这个控件只在商圈详情页面使用了16年6.12-->
+    <dimen name="design_fab_size_normal" tools:ignore="PrivateResource">0dp</dimen>
+
+</resources>
